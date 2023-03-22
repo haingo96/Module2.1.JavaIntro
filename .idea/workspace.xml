@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a0b3c7e-fe7f-4cd1-b36a-1b88a1611f37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +60,7 @@
       <workItem from="1679454884571" duration="284000" />
       <workItem from="1679455180216" duration="74000" />
       <workItem from="1679455266147" duration="1770000" />
-      <workItem from="1679457191436" duration="3082000" />
+      <workItem from="1679457191436" duration="10783000" />
     </task>
     <servers />
   </component>
